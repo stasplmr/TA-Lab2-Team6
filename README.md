@@ -1,11 +1,11 @@
 # TA-Lab2-Team6
 ## Output
-TASK 1: Recursive sum of digits
-Sum of digits of 123: 6
-Sum of digits of 0: 0
-Sum of digits of 1: 1
-Sum of digits of 36: 9
-EXCEPTION: Not natural number!
+>TASK 1: Recursive sum of digits
+>Sum of digits of 123: 6
+>Sum of digits of 0: 0
+>Sum of digits of 1: 1
+>Sum of digits of 36: 9
+>EXCEPTION: Not natural number!
 
 Iterative sum of digits
 Sum of digits of 123: 6
