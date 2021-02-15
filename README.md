@@ -1,6 +1,6 @@
 # TA-Lab2-Team6
 ## Output
-`TASK 1: Recursive sum of digits
+TASK 1: Recursive sum of digits
 Sum of digits of 123: 6
 Sum of digits of 0: 0
 Sum of digits of 1: 1
@@ -20,4 +20,4 @@ A(0, 0) = 1
 A(1, 2) = 4
 EXCEPTION: Maximum recursion depth exceeded
 
-Process finished with exit code 0`
+Process finished with exit code 0
